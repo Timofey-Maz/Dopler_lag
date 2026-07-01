@@ -12,8 +12,11 @@
 
 Клонируйте репозиторий
 Откройте терминал и выполните:
-
+'''
 git clone https://github.com/Timofey-Maz/Dopler_lag.git
 cd Dopler_lag
-Запустите основной скрипт:
+'''
+-Запустите основной скрипт:
+'''
 python 7.1.py
+'''
